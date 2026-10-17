@@ -1,0 +1,61 @@
+{
+  "id": "/",
+  "name": "Propósito em Deus",
+  "short_name": "Propósito",
+  "description": "Palavra do dia, tarefas e jornada com propósito em Deus",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/?origem=app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14284a",
+  "theme_color": "#14284a",
+  "categories": [
+    "lifestyle",
+    "books",
+    "health"
+  ],
+  "icons": [
+    {
+      "src": "/media/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/media/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/media/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tarefas do dia",
+      "url": "/?aba=tarefas",
+      "icons": [
+        {
+          "src": "/media/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Minha jornada",
+      "url": "/?aba=jornada",
+      "icons": [
+        {
+          "src": "/media/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "tipo": "imagem",
+    "src": "/media/slide-1.jpg",
+    "titulo": "Jesus, o Filho de Deus",
+    "texto": "“Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim.” — João 14:6"
+  },
+  {
+    "tipo": "imagem",
+    "src": "/media/slide-2.jpg",
+    "titulo": "O Bom Pastor",
+    "texto": "“Eu sou o bom pastor; o bom pastor dá a sua vida pelas ovelhas.” — João 10:11"
+  },
+  {
+    "tipo": "imagem",
+    "src": "/media/slide-3.jpg",
+    "titulo": "Ele ensinou o amor",
+    "texto": "“Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.” — Mateus 5:9"
+  },
+  {
+    "tipo": "imagem",
+    "src": "/media/slide-4.jpg",
+    "titulo": "Venham a mim",
+    "texto": "“Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei.” — Mateus 11:28"
+  },
+  {
+    "tipo": "imagem",
+    "src": "/media/slide-5.jpg",
+    "titulo": "A oração que transforma",
+    "texto": "“E, levantando-se de madrugada, estando ainda muito escuro, saiu, e foi para um lugar deserto, e ali orava.” — Marcos 1:35"
+  },
+  {
+    "tipo": "imagem",
+    "src": "/media/slide-6.jpg",
+    "titulo": "Amor que restaura",
+    "texto": "“Deixai vir a mim os pequeninos, e não os impeçais, porque dos tais é o reino de Deus.” — Marcos 10:14"
+  }
+]
